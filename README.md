@@ -1,5 +1,5 @@
 # frontend
-
+An example Vue app setup to demonstrate how to setup infinite scroll with the vue observer API
 ## Project setup
 ```
 yarn install
